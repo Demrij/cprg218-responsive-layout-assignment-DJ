@@ -39,3 +39,9 @@ figure {
     display: flex;
     flex-direction: column;
 }
+
+figure img {
+    width: 100%;
+    max-width: 500px;
+    border: 5px solid red;
+}
