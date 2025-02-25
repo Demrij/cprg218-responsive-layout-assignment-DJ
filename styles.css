@@ -67,7 +67,6 @@ footer {
     .header-container {
         flex-direction: column;
     }
-}
 
 .header-container h1 {
     margin-top: 10px;
@@ -75,4 +74,5 @@ footer {
 
 figure img {
     width: 100%; 
+}
 }
