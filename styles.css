@@ -7,7 +7,7 @@ body {
 
 .header-container {
     background-color: #120323;
-    color: green;
+    color: yellowgreen;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -44,4 +44,8 @@ figure img {
     width: 100%;
     max-width: 500px;
     border: 5px solid red;
+}
+
+aside {
+    background-color: yellowgreen;
 }
