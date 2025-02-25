@@ -84,4 +84,16 @@ figure img {
         justify-content: center;
         gap: 20px;
     }
+
+    figure {
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    figure img {
+        max-width: 300px;
+        margin-right: 20px;
+    }
 }
