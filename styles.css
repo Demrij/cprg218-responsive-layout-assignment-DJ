@@ -96,4 +96,8 @@ figure img {
         max-width: 300px;
         margin-right: 20px;
     }
+
+    aside {
+        width: 100%;
+    }
 }
