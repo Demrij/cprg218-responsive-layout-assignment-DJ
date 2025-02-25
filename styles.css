@@ -48,4 +48,6 @@ figure img {
 
 aside {
     background-color: yellowgreen;
+    padding: 20px;
+    text-align: center;
 }
