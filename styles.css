@@ -34,3 +34,8 @@ main {
     align-items: center;
     text-align: center;
 }
+
+figure {
+    display: flex;
+    flex-direction: column;
+}
